@@ -5,7 +5,7 @@
 #include <assert.h>
 #include <string.h>
 #include <strings.h>
-
+#define XIAJUAN "xiajuan"
 // ser
 int main(int argc, char *argv[])
 {

@@ -6,6 +6,8 @@
 #include <string.h>
 #include <strings.h>
 
+#define LILING "liling"
+
 // cli
 int main(int argc, char *argv[])
 {
